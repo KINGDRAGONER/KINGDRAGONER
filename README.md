@@ -83,7 +83,7 @@ markdown## TECH STACK
 
 ### AMIGA AUTONOMOUS ROBOT
 <div align="center">
-  <img src="https://farm-ng.com/wp-content/uploads/2023/03/amiga-product-hero-shot.png" width="100%" alt="Farm-ng Amiga Robot" style="border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/files/20808467/2025-CSE-323-poster.pdf" width="100%" alt="Farm-ng Amiga Robot" style="border-radius: 10px;"/>
 </div>
 
 **Mission:** Capstone Project with SupHerb Farms  
@@ -100,7 +100,7 @@ Autonomous navigation system for cilantro crop yield estimation using Farm-ng Am
 
 ### WARFRAME MARKET SNIPER
 <div align="center">
-  <img src="https://i.imgur.com/XLVnCRC.png" width="100%" alt="Warframe Market Interface" style="border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/1078c934-dfe2-4d90-aa8e-2cdc9ad4198a" width="100%" alt="Warframe Market Interface" style="border-radius: 10px;"/>
 </div>
 
 **Mission:** High-Frequency Trading Bot  
