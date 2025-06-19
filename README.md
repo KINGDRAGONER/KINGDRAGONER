@@ -1,5 +1,5 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=40&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&height=80&lines=MUNIR+KHAN;Backend+Developer;Autonomous+Systems;HPC+Specialist" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=40&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&height=80&lines=MUNIR+KHAN;Backend+Developer;Autonomous+Systems;HPC+HPL Specialist" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -119,8 +119,9 @@ Ultra-low latency (<5s) market sniping bot for Riven mods. Rotating proxy archit
 
 ### IRC PROTOCOL RESEARCH
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wireshark_icon.svg/256px-Wireshark_icon.svg.png" width="100%" alt="Network Analysis" style="border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/3f01688a-7933-42f8-9246-4b354e6d9664" width="100%" alt="TLS Handshake Analysis - Warframe Protocol" style="border-radius: 10px;"/>
 </div>
+
 
 **Mission:** Security Research (Private)  
 **Role:** Independent Researcher
