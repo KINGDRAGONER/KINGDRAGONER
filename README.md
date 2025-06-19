@@ -66,10 +66,10 @@ class MunirKhan:
 
 ### AMIGA AUTONOMOUS ROBOT
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="100%" alt="Robot"/>
+  <img src="https://farm-ng.com/wp-content/uploads/2023/03/amiga-product-hero-shot.png" width="100%" alt="Farm-ng Amiga Robot" style="border-radius: 10px;"/>
 </div>
 
-**Mission:** Capstone Project with SubHerb Farms  
+**Mission:** Capstone Project with SupHerb Farms  
 **Role:** Backend & Full Stack Developer
 
 **Tech:** `FastAPI` `React + TypeScript` `WebSockets` `Multiprocessing`
@@ -83,7 +83,7 @@ Autonomous navigation system for cilantro crop yield estimation using Farm-ng Am
 
 ### WARFRAME MARKET SNIPER
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd5-a1a6-6ca8a9ab9cbd.gif" width="100%" alt="Trading Bot"/>
+  <img src="https://i.imgur.com/XLVnCRC.png" width="100%" alt="Warframe Market Interface" style="border-radius: 10px;"/>
 </div>
 
 **Mission:** High-Frequency Trading Bot  
@@ -102,7 +102,7 @@ Ultra-low latency (<5s) market sniping bot for Riven mods. Rotating proxy archit
 
 ### IRC PROTOCOL RESEARCH
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="100%" alt="Security Research"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wireshark_icon.svg/256px-Wireshark_icon.svg.png" width="100%" alt="Network Analysis" style="border-radius: 10px;"/>
 </div>
 
 **Mission:** Security Research (Private)  
@@ -119,7 +119,7 @@ Network protocol analysis and security research. Packet inspection, authenticati
 
 ### INDYSCC 2024 HPC OPTIMIZATION
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif" width="100%" alt="HPC"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/HPL_Logo.png/300px-HPL_Logo.png" width="100%" alt="High Performance Linpack" style="border-radius: 10px;"/>
 </div>
 
 **Mission:** Student Cluster Competition  
