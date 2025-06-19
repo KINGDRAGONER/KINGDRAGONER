@@ -17,6 +17,8 @@
 
 ## CORE ARCHITECTURE
 
+
+
 ```python
 class MunirKhan:
     def __init__(self):
