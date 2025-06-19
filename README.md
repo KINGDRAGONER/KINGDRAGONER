@@ -41,17 +41,35 @@ class MunirKhan:
 
 ---
 
-## TECH STACK
+markdown## TECH STACK
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
@@ -101,7 +119,7 @@ Ultra-low latency (<5s) market sniping bot for Riven mods. Rotating proxy archit
 
 ### IRC PROTOCOL RESEARCH
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wireshark_icon.svg/256px-Wireshark_icon.svg.png" width="100%" alt="Network Analysis" style="border-radius: 10px;"/>
+  <img src="![image](https://github.com/user-attachments/assets/c4dc8c88-8757-4760-80f9-beb6b7496271)" width="100%" alt="Network Analysis" style="border-radius: 10px;"/>
 </div>
 
 **Mission:** Security Research (Private)  
@@ -118,7 +136,7 @@ Network protocol analysis and security research. Packet inspection, authenticati
 
 ### INDYSCC 2024 HPC OPTIMIZATION
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/HPL_Logo.png/300px-HPL_Logo.png" width="100%" alt="High Performance Linpack" style="border-radius: 10px;"/>
+  <img src="https://sc24.supercomputing.org/" width="100%" alt="High Performance Linpack" style="border-radius: 10px;"/>
 </div>
 
 **Mission:** Student Cluster Competition  
@@ -126,7 +144,7 @@ Network protocol analysis and security research. Packet inspection, authenticati
 
 **Tech:** `HPL Benchmarks` `OpenMPI` `SLURM` `NAMD`
 
-Optimized High-Performance Linpack benchmarks on multi-node clusters. Compiler flags, NUMA settings, and MPI configuration tuning.
+Optimized High-Performance Linpack benchmarks on multi-node clusters. Compiler flags, and MPI configuration tuning.
 
 **Status:** Competition Complete
 
