@@ -137,7 +137,7 @@ Network protocol analysis and security research. Packet inspection, authenticati
 
 ### INDYSCC 2024 HPC OPTIMIZATION
 <div align="center">
-  <img src="https://sc24.supercomputing.org/wp-content/uploads/2024/02/SC24-Logo-Horiz-White-Background.png" width="100%" alt="SC24 Student Cluster Competition" style="border-radius: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/84e098e1-29e4-4620-ae75-9f95c5b6fa2a" width="100%" alt="SC24 Student Cluster Competition" style="border-radius: 10px;"/>
 </div>
 
 **Mission:** Student Cluster Competition  
