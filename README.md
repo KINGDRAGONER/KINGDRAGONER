@@ -1,9 +1,17 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=2000&pause=800&color=00FFFF&center=true&vCenter=true&width=600&height=80&lines=MUNIR+KHAN;Computer+Science+%26+Engineering;Full+Stack+%7C+Backend+Developer;Autonomous+Systems+Engineer;Welcome+to+the+Matrix..." alt="Matrix Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&height=100&lines=MUNIR+KHAN;Computer+Science+Engineer;Full+Stack+Developer;Backend+Specialist;Autonomous+Systems+Engineer;HPC+Optimization+Expert;Welcome+to+my+Digital+Space" alt="Typing Animation" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,30&height=100&section=header&text=&fontSize=0&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,30&height=120&section=header" />
+</div>
+
+<div align="center">
+
+## **🚀 MUNIR KHAN**
+### Computer Science & Engineering Graduate | UC Merced
+### Full Stack Developer • Backend Specialist • Autonomous Systems Engineer
+
 </div>
 
 ---
@@ -12,22 +20,9 @@
 
 <div align="center">
 
-```ascii
-╔══════════════════════════════════════════════════════════════════╗
-║  ███╗   ███╗██╗   ██╗███╗   ██╗██╗██████╗     ██╗  ██╗██╗  ██╗██╗║
-║  ████╗ ████║██║   ██║████╗  ██║██║██╔══██╗    ██║ ██╔╝██║  ██║██║║
-║  ██╔████╔██║██║   ██║██╔██╗ ██║██║██████╔╝    █████╔╝ ███████║██║║
-║  ██║╚██╔╝██║██║   ██║██║╚██╗██║██║██╔══██╗    ██╔═██╗ ██╔══██║██║║
-║  ██║ ╚═╝ ██║╚██████╔╝██║ ╚████║██║██║  ██║    ██║  ██╗██║  ██║██║║
-║  ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-
 **`[STATUS: ONLINE]`** **`[LOCATION: UC_MERCED_GRADUATE]`** **`[SPECIALIZATION: AUTONOMOUS_SYSTEMS]`**
+
+**`[ROLE: FULL_STACK_DEVELOPER]`** **`[FOCUS: BACKEND_SYSTEMS]`** **`[EXPERTISE: HPC_OPTIMIZATION]`**
 
 </div>
 
