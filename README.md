@@ -119,7 +119,7 @@ Ultra-low latency (<5s) market sniping bot for Riven mods. Rotating proxy archit
 
 ### IRC PROTOCOL RESEARCH
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/c4dc8c88-8757-4760-80f9-beb6b7496271)" width="100%" alt="Network Analysis" style="border-radius: 10px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wireshark_icon.svg/256px-Wireshark_icon.svg.png" width="100%" alt="Network Analysis" style="border-radius: 10px;"/>
 </div>
 
 **Mission:** Security Research (Private)  
@@ -136,7 +136,7 @@ Network protocol analysis and security research. Packet inspection, authenticati
 
 ### INDYSCC 2024 HPC OPTIMIZATION
 <div align="center">
-  <img src="https://sc24.supercomputing.org/" width="100%" alt="High Performance Linpack" style="border-radius: 10px;"/>
+  <img src="https://www.studentclustercompetition.us/img/scc-logo.png" width="100%" alt="Student Cluster Competition" style="border-radius: 10px;"/>
 </div>
 
 **Mission:** Student Cluster Competition  
