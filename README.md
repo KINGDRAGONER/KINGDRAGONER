@@ -1,7 +1,6 @@
 # <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=40&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&height=80&lines=MUNIR+KHAN;Backend+Developer;Autonomous+Systems;HPC+HPL_Specialist" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=40&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&height=80&lines=MUNIR+KHAN;Backend+Developer;Autonomous+Systems;HPC+Specialist" alt="Typing Animation" />
 </div>
-
 
 <div align="center">
 
@@ -13,11 +12,11 @@
 
 ---
 
-<img align="right" alt="Robotic Cat" width="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
 ## CORE ARCHITECTURE
 
-
+<div align="center">
+  <img alt="Robotic Cat" width="250" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+</div>
 
 ```python
 class MunirKhan:
@@ -40,7 +39,7 @@ class MunirKhan:
 
 ---
 
-markdown## TECH STACK
+## TECH STACK
 
 <div align="center">
 
@@ -78,7 +77,7 @@ markdown## TECH STACK
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### AMIGA AUTONOMOUS ROBOT
 <div align="center">
@@ -95,7 +94,7 @@ Autonomous navigation system for cilantro crop yield estimation using Farm-ng Am
 **Status:** Top Finisher Track 6 - I2G Capstone
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### WARFRAME MARKET SNIPER
 <div align="center">
@@ -114,13 +113,12 @@ Ultra-low latency (<5s) market sniping bot for Riven mods. Rotating proxy archit
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### IRC PROTOCOL RESEARCH
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3f01688a-7933-42f8-9246-4b354e6d9664" width="100%" alt="TLS Handshake Analysis - Warframe Protocol" style="border-radius: 10px;"/>
 </div>
-
 
 **Mission:** Security Research (Private)  
 **Role:** Independent Researcher
@@ -132,11 +130,11 @@ Network protocol analysis and security research. Packet inspection, authenticati
 **Status:** Research Phase - Private Repository
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### INDYSCC 2024 HPC OPTIMIZATION
 <div align="center">
-<img src="https://sc24.supercomputing.org/wp-content/uploads/2024/02/SC24-Logo-Horiz-White-Background.png" width="100%" alt="SC24 Student Cluster Competition" style="border-radius: 10px;"/>
+  <img src="https://sc24.supercomputing.org/wp-content/uploads/2024/02/SC24-Logo-Horiz-White-Background.png" width="100%" alt="SC24 Student Cluster Competition" style="border-radius: 10px;"/>
 </div>
 
 **Mission:** Student Cluster Competition  
