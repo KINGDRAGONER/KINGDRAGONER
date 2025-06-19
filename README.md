@@ -31,7 +31,7 @@ class MunirKhan:
         self.languages = ["Python", "JavaScript", "TypeScript", "HTML/CSS", "Bash"]
         self.frameworks = ["FastAPI", "React + TypeScript", "Node.js", "Tailwind CSS"]
         self.automation = ["discord.py", "discord.js", "python-telegram-bot"]
-        self.tools = ["Git", "MongoDB", "Redis", "Wireshark", "OpenMPI", "SLURM"]
+        self.tools = ["Git", "Redis", "Wireshark", "OpenMPI", "SLURM"]
         
         self.focus = "Autonomous Systems & HPC Optimization"
         
@@ -51,7 +51,6 @@ class MunirKhan:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
