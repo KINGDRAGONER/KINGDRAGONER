@@ -83,7 +83,7 @@ markdown## TECH STACK
 
 ### AMIGA AUTONOMOUS ROBOT
 <div align="center">
-  <img src="https://github.com/user-attachments/files/20808467/2025-CSE-323-poster.pdf" width="100%" alt="Farm-ng Amiga Robot" style="border-radius: 10px;"/>
+  <img src="https://ucmerced.box.com/s/oue7c83ik02ipuncv3v0xvbvmrtatq4k" width="100%" alt="Farm-ng Amiga Robot" style="border-radius: 10px;"/>
 </div>
 
 **Mission:** Capstone Project with SupHerb Farms  
