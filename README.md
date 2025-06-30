@@ -159,9 +159,7 @@ Optimized High-Performance Linpack benchmarks on multi-node clusters. Compiler f
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KINGDRAGONER&layout=compact&hide_border=true&title_color=FF6B35&text_color=FFFFFF&bg_color=0D1117" />
 </div>
 
-<div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=KINGDRAGONER&theme=dark&hide_border=true&stroke=0D1117&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35" />
-</div>
+
 
 ---
 
