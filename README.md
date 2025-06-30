@@ -164,6 +164,7 @@ Core Coursework:
 • Computer Vision                  • Artificial Intelligence  
 • Machine Learning                 • Human-Computer Interaction
 • Probability and Statistics       • Numerical Methods
+
 ```
 
 </div>
